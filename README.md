@@ -6,10 +6,11 @@ I have 4+ years of experience across fintech, healthcare, and early-stage produc
 
 ## A few things I've delivered
 
-- Designed and shipped **32+ production REST APIs** as a founding backend engineer
+- Designed and shipped **100+ production REST APIs** as a founding backend engineer
 - Improved database-query performance by **40%**
 - Led and supported a team of **14+ backend engineers**
-- Built product workflows across fintech, healthcare, billing, inventory, and CRM systems
+- Built product workflows across fintech, pharmacy billing, inventory and expiry management,
+  automated ordering and reordering, reporting, and CRM systems
 - Created an AI-enabled operations agent with transactional workflows and practical guardrails
 
 ## Featured projects
