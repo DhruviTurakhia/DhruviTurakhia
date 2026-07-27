@@ -12,7 +12,16 @@ I have 4+ years of experience across fintech, healthcare, and early-stage produc
 - Built product workflows across fintech, healthcare, billing, inventory, and CRM systems
 - Created an AI-enabled operations agent with transactional workflows and practical guardrails
 
-## Featured project
+## Featured projects
+
+### [Incident Commander](https://github.com/DhruviTurakhia/incident-commander-ai)
+
+An evidence-backed SRE investigation platform that compiles versioned JSON workflows, executes
+operational tools with retries and async parallelism, and pauses at a human approval gate before
+remediation. The repository includes five reproducible incident scenarios, MCP, Slack, and
+Temporal interfaces, and a 14-test suite.
+
+`Python` · `FastAPI` · `MCP` · `Temporal` · `SQLite`
 
 ### [Kirana Ops Agent](https://github.com/DhruviTurakhia/kirana-ops-agent)
 
@@ -21,6 +30,14 @@ A Telegram-first operations agent for Indian shop owners. It handles inventory, 
 `Python` · `OpenAI Agents SDK` · `Telegram` · `Pydantic` · `SQLite`
 
 [Watch the demo](https://www.loom.com/share/47b60dec357147e99545dcd62ab9231d) · [Open the Telegram bot](https://t.me/dhruvi_ai_shop_bot)
+
+### [Multiplayer Online Chess](https://github.com/DhruviTurakhia/multiplayer-online-chess)
+
+A TypeScript monorepo with a React web client, Express authentication API, WebSocket game server,
+Prisma/PostgreSQL persistence, and a React Native prototype. It demonstrates server-authoritative
+move validation, live matchmaking, and game reconstruction after reconnecting.
+
+`TypeScript` · `Node.js` · `React` · `WebSockets` · `PostgreSQL`
 
 ## Core tools
 
